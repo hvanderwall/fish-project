@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+fish_project/__init__.py
+fish_project/__version__.py
+fish_project/fish_project.py
+fish_project.egg-info/PKG-INFO
+fish_project.egg-info/SOURCES.txt
+fish_project.egg-info/dependency_links.txt
+fish_project.egg-info/not-zip-safe
+fish_project.egg-info/requires.txt
+fish_project.egg-info/top_level.txt
