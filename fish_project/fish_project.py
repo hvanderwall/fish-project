@@ -7,7 +7,7 @@ logger = logging.getLogger(__name__)
 # FIXME: put actual code here
 def example():
     logger.info('Providing information about the excecution of the function.')
-    print('Hello Fishy Things updated again')
+    print('Hello Fishy Things updated again 2')
 
 if __name__ == "__main__":
     example()
